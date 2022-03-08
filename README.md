@@ -4,8 +4,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dilge-karakaş-68b880127/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dilge-karakaş-68b880127/)
+[![website](https://simpleicons.org/icons/linkedin.svg)](https://www.linkedin.com/in/dilge-karakaş-68b880127/)
+[![website](https://simpleicons.org/icons/linkedin.svg)](https://www.linkedin.com/in/dilge-karakaş-68b880127/)
 
 ### Languages and Tools:
 
