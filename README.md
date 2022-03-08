@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning Git, AWS, and fundamentals of Data Science everyday.
 
 ### Connect with me:
-
-[![website](https://simpleicons.org/icons/linkedin.svg)](https://www.linkedin.com/in/dilge-karakaş-68b880127/)
-[![website](https://simpleicons.org/icons/linkedin.svg)](https://www.linkedin.com/in/dilge-karakaş-68b880127/)
+[<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/linkedin.svg" style="padding-right:10px;" />][webdevplaylist]
 
 ### Languages and Tools:
 
