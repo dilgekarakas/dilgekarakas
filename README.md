@@ -15,4 +15,4 @@
 [<img align="left" alt="Python" width="26px" src="https://simpleicons.org/icons/python.svg" style="padding-right:10px;" />]
 
 [linkedin]: https://www.linkedin.com/in/dilge-karakaş-68b880127/
-[linkedin]: karakasdilge@gmail.com
+[gmail]: karakasdilge@gmail.com
