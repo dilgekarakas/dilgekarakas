@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dilge
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Git, AWS, and fundamentals of Data Science everyday.
+- 👋 Hi, I’m Dilge Karakaş. I'm working for Hepsiburada.
+- 👀 I’m interested in Data Science, MLOps and Deep Learning.
+- 🌱 I’m currently learning LLM's and create useful packages for Python ML environment. 
 
 
 ### Connect with me:
